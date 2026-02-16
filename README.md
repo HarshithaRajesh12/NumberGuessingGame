@@ -6,6 +6,17 @@ The system generates a random number between 1–100, and the user attempts to g
 
 ---
 
+## 🖼️ Application Preview
+
+<p float="left">
+  <img src="screenshots/Screenshot 2026-02-16 194909.png" width="200" />
+  <img src="screenshots/Screenshot 2026-02-16 195052.png" width="200" />
+  <img src="screenshots/Screenshot 2026-02-16 195118.png" width="200" />
+  <img src="screenshots/Screenshot 2026-02-16 195159.png" width="200" />
+  <img src="screenshots/Screenshot 2026-02-16 195240.png" width="200" />
+</p>
+
+
 ## 🚀 Features
 
 - 🎲 Random number generation
