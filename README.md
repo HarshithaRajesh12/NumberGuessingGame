@@ -7,11 +7,14 @@ The system generates a random number between 1–100, and the user attempts to g
 ---
 
 ## 🖼️ Application Preview
-![Screenshot 1](screenshots/Screenshot 2026-02-16 194909.png)
-![Screenshot 2](screenshots/Screenshot 2026-02-16 195052.png)
-![Screenshot 3](screenshots/Screenshot 2026-02-16 195118.png)
-![Screenshot 4](screenshots/Screenshot 2026-02-16 195159.png)
-![Screenshot 5](screenshots/Screenshot 2026-02-16 195240.png)
+
+![Screenshot 1]("screenshorts/Screenshot 2026-02-16 194909.png")
+![Screenshot 2]("screenshorts/Screenshot 2026-02-16 195052.png")
+![Screenshot 3]("screenshorts/Screenshot 2026-02-16 195118.png")
+![Screenshot 4]("screenshorts/Screenshot 2026-02-16 195159.png")
+![Screenshot 5]("screenshorts/Screenshot 2026-02-16 195240.png")
+
+---
 
 ## 🚀 Features
 
